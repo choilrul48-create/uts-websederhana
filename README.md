@@ -156,7 +156,6 @@ Informasi Pengiriman (tracking.html)
 
  ![Tampilan Halaman Web](ckck/3x.jpg)
 
- ![Tampilan Halaman Web](4x.jpg)
 
 
 
@@ -164,3 +163,6 @@ Informasi Pengiriman (tracking.html)
 
 2.	Penambahan css
   
+ ![Tampilan Halaman Web](ckck/4z.jpg)
+
+ ![Tampilan Halaman Web](4x.jpg)
