@@ -5,6 +5,7 @@ Membuat menu login
 a.	Pesiapan pada html
  
 
+ ![Tampilan Halaman Web](ckck/1.jpg)
 
 b.	Penambahan style css
 
