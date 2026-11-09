@@ -1,5 +1,5 @@
 # uts-websederhana
-toko buku komplit
+toko buku
 
 link website: https://choilrul48-create.github.io/uts-websederhana/
 
