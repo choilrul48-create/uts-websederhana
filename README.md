@@ -1,6 +1,8 @@
 # uts-websederhana
 toko buku komplit
-https://choilrul48-create.github.io/uts-websederhana/
+
+link website: https://choilrul48-create.github.io/uts-websederhana/
+
 link youtube: https://youtu.be/OPi_ctO15jw?si=1xh6zqX6o-kP_C2v
 
 Membuat menu login
